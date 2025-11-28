@@ -1,12 +1,15 @@
-var a = 2
+// var a = 2
 
-var dec = a-- + a--
+// var dec = a-- + a--
 
-// console.log(a--)
+// console.log(a-- + a--)
 
-console.log(dec)
+// // console.log(a--)
+
+// // console.log(a)
 
 
+var a = 1
+var b = 1
 
-
-// console.log(a)
+var result = ++a + b++ + a++ + ++a + b++
