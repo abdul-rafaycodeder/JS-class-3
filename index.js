@@ -34,9 +34,33 @@
 // console.log(number++)
 
 
-var a = 1 
+// var a = 1 
 
-var test = a++
+// var test = a++
 
-console.log(a)
+// console.log(a)
 
+// var num = "2" + 3 + "3"
+
+// console.log(num)
+
+// alert (just for massages)
+// prompt (massages and user information)
+
+// prompt("hello" , "hi"/)
+
+// var userName = "rafay khalid"
+
+// var massage = "you are handsome"
+
+// var result = prompt(userName)
+
+
+var number1 = prompt("enter first name")    
+var number2 = prompt("enter second name")    
+
+var result = number1 + number2
+
+
+
+console.log(result)     
