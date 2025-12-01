@@ -75,3 +75,14 @@
 //     console.log("mara naam abdul rafay hai app ka kya naam hai")
 // }
 // console.log("nahi chal raha ")
+
+// var userName = prompt("enter your name");
+// var abSentStudent = "ali";
+
+// if (userName === abSentStudent) {
+//     console.log( userName + " you are not allow kal calss q mahi aaya")
+// } else {
+//     console.log( userName + " you are allow")
+// }
+
+
