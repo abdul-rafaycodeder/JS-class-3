@@ -85,4 +85,21 @@
 //     console.log( userName + " you are allow")
 // }
 
+// var num1 = 2
+// var num2 = 3
 
+// if(num1 >= num2){
+//     console.log("you are right")
+// }
+
+// conparison
+
+// var num1 = 2
+// var num2 =  
+
+// if(num2 > num1){
+//     console.log(num2 + " you are right " + num1)
+// }
+
+// var umane = prompt("enter your user name")
+// var abSentName = prompt("enter absend name")
