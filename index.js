@@ -56,11 +56,22 @@
 // var result = prompt(userName)
 
 
-var number1 = prompt("enter first name")    
-var number2 = prompt("enter second name")    
+// var number1 = Number(prompt("enter first name"));    
+// var number2 = Number(prompt("enter second name"));    
 
-var result = number1 + number2
+// var result = number1 + number2
 
 
 
-console.log(result)     
+// console.log(result)     
+
+// var dogs = Number(prompt("how to many dogs in your area"));
+
+// var calculate = dogs + 5    
+
+// console.log("calculate=>(72)",calculate)
+
+// if(false){
+//     console.log("mara naam abdul rafay hai app ka kya naam hai")
+// }
+// console.log("nahi chal raha ")
